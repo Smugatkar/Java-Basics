@@ -17,7 +17,7 @@ public class BasicDataTypes {
 		 System.out.println("double: "+d);
 		 System.out.println("char: "+c);
 		 System.out.println("Sting: "+s);
-		 System.out.println("New Check in From Eclipse");
+		 System.out.println("New Check in From Eclipse12");
 		
 	}
 
